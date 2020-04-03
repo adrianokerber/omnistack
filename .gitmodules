@@ -1,0 +1,6 @@
+[submodule "backend-omnistack"]
+	path = backend-omnistack
+	url = git@github.com:adrianokerber/backend-omnistack.git
+[submodule "frontend-omnistack"]
+	path = frontend-omnistack
+	url = git@github.com:adrianokerber/frontend-omnistack.git
