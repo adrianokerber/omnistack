@@ -4,3 +4,6 @@
 [submodule "frontend-omnistack"]
 	path = frontend-omnistack
 	url = git@github.com:adrianokerber/frontend-omnistack.git
+[submodule "mobile-omnistack"]
+	path = mobile-omnistack
+	url = git@github.com:adrianokerber/mobile-omnistack.git
