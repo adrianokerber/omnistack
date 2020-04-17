@@ -11,3 +11,12 @@ In order to clone this repository, you will need to run `git clone --recurse-sub
 ## Branching rules
 
 This project follows a different branching ruleset. We use `master` as the development/working branch and `stable` as the production branch. Read more about it [here](https://gist.github.com/adrianokerber/b600bf12ccac888020bfb59a2acc6736).
+
+## Roadmap
+
+The _2020_  roadmap for the product
+
+- [ ] Create matches table to save users' matches.
+    * On match, save match at matches table (backend)
+    * On login, display matches that occured when offline or outside the app
+- [ ] I18N: Add internacionalization for all text values in frontend, backend and mobile
