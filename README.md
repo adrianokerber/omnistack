@@ -2,7 +2,7 @@
 
 OmniStack is a course developed by [RocketSeat](https://rocketseat.com.br/) and provided free for a short time. The objective of the course is to learn how to be a fullstack developer based on **Javascript stack**. This repository join all my implementations from the lessons of the OmniStack course.
 
-The repository itself is nothing else than a way to group and organize all submodules together. Each submodule represent a piece of the application proposed by the course. The submodules are related to backend, frontend, and the hole stack for OmniStack course.
+The repository itself is nothing else than a way to group and organize all submodules together. Each submodule represent a piece of the application proposed by the course. The submodules are related to backend, frontend, and mobile applications.
 
 ## First steps
 
